@@ -1,0 +1,64 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+#ast-scroll-top{
+	background-color: #dd0031 !important;
+	    width: 3.1em !important;
+    height: 3.1em !important;
+	border-radius: 50% !important;
+	line-height: 3.4 !important;
+}
+#ast-scroll-top svg{
+	    height: 30px !important;
+}
+
+@media(max-width:425){
+.e-con-inner {
+    padding: 6px 12px !important;
+}
+	}
+
+a.page-numbers {
+    background-color: #E02850;
+    color: white !important;
+    border: 1px solid #E02850;
+    box-shadow: 2px 1px 5px darkgray;
+    padding: 10px 12px !important;
+}
+
+elementor-pagination:active{
+    background-color: #E02850;
+    padding: 10px 12px;
+    border: 1px solid #E02850;
+  box-shadow: 2px 1px 5px darkgray;
+}
+
+
+span.page-numbers.current {
+    color: black;
+    padding: 10px 12px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    color: black !important;
+    box-shadow: 2px 1px 5px darkgray;
+}
+
+elementor-pagination:active {
+    color: white;
+    padding: 10px 12px;
+    background-color: #E02850;
+    border: 1px solid #E02850;
+    color: white !important;
+    box-shadow: 2px 1px 5px darkgray;
+}
+
+nav.elementor-pagination {
+    padding-top: 80px !important;
+}
+
+@media(min-width: 430px){
+	.elementor-element.elementor-element-4e4f858.elementor-widget.elementor-widget-heading{
+		margin-top: 50px !important;
+	}
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
